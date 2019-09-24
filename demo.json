@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Mr. Gilberto Stehr",
+        "email": "Kody15@hotmail.com",
+        "address": {
+            "city": "Colintown",
+            "country": "Botswana",
+            "latitude": "-38.1196",
+            "longtitude": "129.0243"
+        }
+    },
+    {
+        "name": "Jerel Strosin",
+        "email": "Jared_Durgan62@yahoo.com",
+        "address": {
+            "city": "Port Brendan",
+            "country": "Andorra",
+            "latitude": "-75.2484",
+            "longtitude": "44.7282"
+        }
+    },
+    {
+        "name": "Eduardo Kub",
+        "email": "Teagan.Kshlerin66@hotmail.com",
+        "address": {
+            "city": "Franciscafurt",
+            "country": "Afghanistan",
+            "latitude": "26.2779",
+            "longtitude": "-57.2178"
+        }
+    },
+    {
+        "name": "Quinton Waters",
+        "email": "Jeremie37@gmail.com",
+        "address": {
+            "city": "Ornton",
+            "country": "Indonesia",
+            "latitude": "-72.5491",
+            "longtitude": "37.1805"
+        }
+    },
+    {
+        "name": "Caleigh Hermiston",
+        "email": "Chloe_Mann@hotmail.com",
+        "address": {
+            "city": "Trevaport",
+            "country": "Maldives",
+            "latitude": "45.0819",
+            "longtitude": "-157.6980"
+        }
+    }
+]

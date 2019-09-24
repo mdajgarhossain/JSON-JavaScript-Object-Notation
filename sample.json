@@ -1,0 +1,21 @@
+[{
+    "name": "A.H. Jewell",
+    "age": 25,
+    "skills": ["Html", "CSS", "JavaScript", "OO JavaScript", "DOM", "NPM", "JSON"],
+    "stack": [
+        {"front-end": ["Html", "CSS", "JavaScript"]},
+        {"back-end": ["NodeJS"]}
+    ],
+    "isEmployed": false
+},
+
+{
+    "name": "A.H. Jewell",
+    "age": 25,
+    "skills": ["Html", "CSS", "JavaScript", "OO JavaScript", "DOM", "NPM", "JSON"],
+    "stack": [
+        {"front-end": ["Html", "CSS", "JavaScript"]},
+        {"back-end": ["NodeJS"]}
+    ],
+    "isEmployed": false
+}]
